@@ -25,3 +25,6 @@ venv/
 .pytest_cache/
 .ruff_cache/
 .mypy_cache/
+
+# git note
+git_cli.md
